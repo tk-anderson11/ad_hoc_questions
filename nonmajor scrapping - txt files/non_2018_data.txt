@@ -1,0 +1,18 @@
+fiscal_year|category|sub_category|Line Item|Utah Communications Authority|Utah Schools for the Deaf and the Blind|Military Installation Development Authority|Heber Valley Historic Railroad Authority|Utah State Fair Corporation|Point of the Mountain Development Authority|Utah Inland Port Authority|Weber State University|Southern Utah University|Salt Lake Community College|Utah Valley University|Utah Tech University|Snow College|Technical Colleges|Total Nonmajor Component Units
+2018|Expenses|NA|Expenses|13494|36797|3989|1861|4663|NA|NA|242294|148425|215231|366302|100416|52514|115304|1301290
+2018|Program Revenues|Charges for Services:|Tuition and Fees|NA|NA|NA|NA|NA|NA|NA|121374|82860|80522|180350|50436|15632|14104|545278
+2018|Program Revenues|Charges for Services:|Scholarship Allowances|NA|NA|NA|NA|NA|NA|NA|(38192)|(28996)|(17614)|(42745)|(11980)|(6262)|(3468)|(149257)
+2018|Program Revenues|Charges for Services:|Sales, Services, and Other Revenues|14156|7537|3152|2104|4178|NA|NA|23262|19921|16359|23817|10494|6093|8482|139555
+2018|Program Revenues|NA|Operating Grants and Contributions|(52)|1249|NA|50|NA|NA|NA|60000|4503|37632|87200|23269|2373|18904|235128
+2018|Program Revenues|NA|Capital Grants and Contributions|NA|NA|NA|NA|NA|NA|NA|7385|28056|39567|22475|6669|32985|45466|182603
+2018|Program Revenues|NA|Total Program Revenues|14104|8786|3152|2154|4178|NA|NA|173829|106344|156466|271097|78888|50821|83488|953307
+2018|Program Revenues|NA|Net (Expenses) Revenues|610|(28011)|(837)|293|(485)|NA|NA|(68465)|(42081)|(58765)|(95205)|(21528)|(1693)|(31816)|(347983)
+2018|General Revenues|NA|State Appropriations|NA|28575|NA|NA|2855|NA|NA|84971|43343|97976|106398|36662|24859|75447|501086
+2018|General Revenues|NA|Unrestricted Investment Income|209|16|11|NA|13|NA|NA|NA|NA|NA|NA|NA|NA|NA|249
+2018|General Revenues|NA|Gain (Loss) on Sale of Capital Assets|NA|(248)|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|(65)|(313)
+2018|General Revenues|NA|Miscellaneous|653|NA|618|NA|NA|NA|NA|NA|NA|3|NA|523|101|70|1968
+2018|General Revenues|NA|Permanent Endowment Contributions|NA|NA|NA|NA|NA|NA|NA|9777|517|1097|6703|895|NA|NA|18989
+2018|General Revenues|NA|Total General Revenues and Contributions|862|28343|629|0|2868|NA|NA|94748|43860|99076|113101|38080|24960|75452|521979
+2018|Net Position|NA|Change in Net Position|1472|332|(208)|293|2383|NA|NA|26283|1779|40311|17896|16552|23267|43636|173996
+2018|Net Position|NA|Net Position - Beginning|33054|24855|2966|2168|509|NA|NA|544454|219760|331328|528844|170515|94666|170427|2123546
+2018|Net Position|NA|Net Position - Ending|34526|25187|2758|2461|2892|NA|NA|570737|221539|371639|546740|187067|117933|214063|2297542

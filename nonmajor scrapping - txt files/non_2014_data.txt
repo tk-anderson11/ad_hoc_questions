@@ -1,0 +1,16 @@
+fiscal_year|category|sub_category|Line Item|Comprehensive Health Insurance Pool|Utah Schools for the Deaf and the Blind|Military Installation Development Authority|Heber Valley Historic Railroad Authority|Utah State Fair Corporation|Weber State University|Southern Utah University|Salt Lake Community College|Utah Valley University|Utah Tech University|Snow College|Technical Colleges|Total Nonmajor Component Units
+2014|Expenses|NA|Expenses|20721|30386|4680|1452|5686|217240|124966|209105|275355|94664|40796|86053|1111104
+2014|Program Revenues|Charges for Services:|Tuition and Fees|NA|NA|NA|NA|NA|105793|62281|88687|133487|37331|11858|13266|452703
+2014|Program Revenues|Charges for Services:|Scholarship Allowances|NA|NA|NA|NA|NA|-27215|-15784|-21850|-26802|-9099|-5129|-2832|-108711
+2014|Program Revenues|Charges for Services:|Sales, Services, and Other Revenues|10520|5904|4672|1547|3613|22399|20519|16270|21450|9785|4238|7851|128768
+2014|Program Revenues|NA|Operating Grants and Contributions|987|1455|NA|NA|NA|61276|36540|55088|84301|24400|9122|12863|286032
+2014|Program Revenues|NA|Capital Grants and Contributions|NA|NA|NA|NA|NA|8636|5904|51433|7029|4704|622|4533|82861
+2014|Program Revenues|NA|Total Program Revenues|11507|7359|4672|1547|3613|170889|109460|189628|219465|67121|20711|35681|841653
+2014|Expenses|NA|Net (Expenses) Revenues|-9214|-23027|-8|95|-2073|-46351|-15506|-19477|-55890|-27543|-20085|-50372|-269451
+2014|General Revenues|NA|State Appropriations|8084|23283|NA|NA|844|67267|32246|75020|71280|25963|20063|50767|374817
+2014|General Revenues|NA|Unrestricted Investment Income|79|2|8|NA|NA|NA|NA|NA|876|1047|152|NA|89
+2014|General Revenues|NA|Permanent Endowments Contributions|NA|NA|NA|NA|NA|2807|162|NA|NA|NA|NA|NA|5044
+2014|General Revenues|NA|Total General Revenues|8163|23285|8|NA|844|70074|32408|75020|72156|27010|20215|50767|379950
+2014|General Revenues|NA|Change in Net Position|-1051|258|0|95|-1229|23723|16902|55543|16266|-533|130|395|110499
+2014|Net Position|NA|Net Position – Beginning|17257|15991|415|1672|1859|431064|186925|273902|394386|163272|103929|156838|1747510
+2014|Net Position|NA|Net Position – Ending|16206|16249|415|1767|630|454787|203827|329445|410652|162739|104059|157233|1858009

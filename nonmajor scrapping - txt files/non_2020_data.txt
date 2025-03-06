@@ -1,0 +1,17 @@
+fiscal_year|category|sub_category|Line Item|Utah Communications Authority|Utah Schools for the Deaf and the Blind|Military Installation Development Authority|Heber Valley Historic Railroad Authority|Utah State Fair Corporation|Point of the Mountain Development Authority|Utah Inland Port Authority|Weber State University|Southern Utah University|Salt Lake Community College|Utah Valley University|Utah Tech University|Snow College|Technical Colleges|Total Nonmajor Component Units
+2020|Expenses|NA|Expenses|10689|44503|4046|2301|5827|523|2295|252571|179045|213253|385244|121472|57881|133221|1412871
+2020|Program Revenues|Charges for Services:|Tuition and Fees|NA|NA|NA|NA|NA|NA|NA|127052|104030|79279|201412|64098|16949|15039|607859
+2020|Program Revenues|Charges for Services:|Scholarship Allowances|NA|NA|NA|NA|NA|NA|NA|(39183)|(32907)|(19925)|(55306)|(16239)|(6481)|(3705)|(173746)
+2020|Program Revenues|Charges for Services:|Sales, Services, and Other Revenues|8723|8368|4806|2588|5909|NA|NA|26611|21252|22923|31607|18377|5834|(807)|156191
+2020|Program Revenues|NA|Operating Grants and Contributions|1171|1275|275|1|NA|NA|18|60311|36667|48325|138633|28700|1907|22144|339427
+2020|Program Revenues|NA|Capital Grants and Contributions|NA|14573|NA|NA|NA|NA|NA|6513|5004|363|4278|29576|25053|16819|102179
+2020|Program Revenues|NA|Total Program Revenues|9894|24216|5081|2589|5909|0|18|181304|134046|130965|320624|124512|43262|49490|1031910
+2020|Program Revenues|NA|Net (Expenses) Revenues|(795)|(20287)|1035|288|82|(523)|(2277)|(71267)|(44999)|(82288)|(64620)|3040|(14619)|(83731)|(380961)
+2020|General Revenues|NA|State Appropriations|28179|32510|NA|550|NA|900|1500|91724|45543|102985|109627|41080|28610|96873|580081
+2020|General Revenues|NA|Gain (Loss) on Sale of Capital Assets|27|NA|NA|NA|77|NA|NA|NA|NA|NA|NA|NA|NA|111|215
+2020|General Revenues|NA|Miscellaneous|NA|NA|19510|2|NA|NA|NA|2439|NA|NA|NA|NA|NA|79|22030
+2020|General Revenues|NA|Permanent Endowments Contributions|NA|NA|NA|NA|NA|NA|NA|2588|1331|598|NA|86|494|20|5117
+2020|General Revenues|NA|Total General Revenues and Contributions|28206|32510|19510|2|627|900|1500|96751|46874|103583|109627|41166|29104|97083|607443
+2020|Net Position|NA|Change in Net Position|27411|12223|20545|290|709|377|(777)|25484|1875|21295|45007|44206|14485|13352|226482
+2020|Net Position|NA|Net Position - Beginning|37047|23711|6263|2769|3481|NA|1402|620649|229608|387498|629159|183156|115797|216018|2456558
+2020|Net Position|NA|Net Position - Ending|64458|35934|26808|3059|4190|377|625|646133|231483|408793|674166|227362|130282|229370|2683040

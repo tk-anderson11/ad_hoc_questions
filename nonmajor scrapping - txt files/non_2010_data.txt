@@ -1,0 +1,16 @@
+fiscal_year|category|sub_category|Line Item|Comprehensive Health Insurance Pool|Utah Schools for the Deaf and the Blind|Military Installation Development Authority|Heber Valley Historic Railroad Authority|Utah State Fair Corporation|Weber State University|Southern Utah University|Salt Lake Community College|Utah Valley University|Utah Tech University|College of Eastern Utah|Snow College|Technical Colleges|Total Nonmajor Component Units
+2010|Expenses|NA|Expenses|35054|30955|2816|2093|3954|180087|100734|186001|234233|75614|37925|39132|83915|1012513
+2010|Program Revenues|Charges for Services:|Tuition and Fees|NA|NA|NA|NA|NA|86389|36964|72042|110610|27841|4132|9539|12057|359574
+2010|Program Revenues|Charges for Services:|Scholarship Allowances|NA|NA|NA|NA|NA|-22430|-10601|-13920|-21915|NA|-1403|-3177|-1353|-74799
+2010|Program Revenues|Charges for Services:|Sales, Services, and Other Revenues|20677|6179|5697|1967|3290|20121|17636|22846|24017|NA|3231|4106|9728|139495
+2010|Program Revenues|NA|Operating Grants and Contributions|2041|1093|NA|NA|NA|53772|29940|49150|81706|30287|7676|9209|15556|280430
+2010|Program Revenues|NA|Capital Grants and Contributions|NA|6436|NA|NA|NA|7065|2916|267|5436|317|2381|1322|28088|54228
+2010|Program Revenues|NA|Total Program Revenues|22718|13708|5697|1967|3290|144917|76855|130385|199854|58445|16017|20999|64076|758928
+2010|Expenses|NA|Net (Expenses) Revenues|-12336|-17247|2881|-126|-664|-35170|-23879|-55616|-34379|-17169|-21908|-18133|-19839|-253585
+2010|General Revenues|NA|State Appropriations|8500|21264|5648|NA|739|59860|28950|63086|49146|21687|16986|20760|44120|340746
+2010|General Revenues|NA|Unrestricted Investment Income|301|2|NA|NA|NA|NA|NA|NA|2702|NA|NA|NA|8|3013
+2010|General Revenues|NA|Permanent Endowments Contributions|NA|NA|NA|NA|NA|2665|220|NA|233|65|103|62|NA|3348
+2010|General Revenues|NA|Total General Revenues|8801|21266|5648|0|739|62525|29170|63086|52081|21752|17089|20822|44128|347107
+2010|NA|NA|Change in Net Assets|-3535|4019|8529|-126|75|27355|5291|7470|17702|4583|-4819|2689|24289|93522
+2010|Net Position|NA|Net Assets – Beginning|31521|11344|NA|1754|1444|302573|141746|254846|283957|117489|66551|93041|100206|1406472
+2010|Net Position|NA|Net Assets – Ending|27986|15363|8529|1628|1519|329928|147037|262316|301659|122072|61732|95730|124495|1499994

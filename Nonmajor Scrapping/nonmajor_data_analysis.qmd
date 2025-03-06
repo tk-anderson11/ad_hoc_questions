@@ -331,3 +331,7 @@ nonmajor_data_2024to2005 <- combined_data %>%
 ```
 
 ### Full Object Created!
+
+```{r}
+write.csv(nonmajor_data_2024to2005, file = "D:/ad_hoc_questions/non_major_data_2024to2005.csv", row.names = FALSE)
+```

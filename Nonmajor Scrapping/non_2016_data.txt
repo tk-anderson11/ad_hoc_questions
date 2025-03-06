@@ -1,0 +1,20 @@
+fiscal_year|category|sub_category|Line Item|Utah Communications Authority|Utah Schools for the Deaf and the Blind|Military Installation Development Authority|Heber Valley Historic Railroad Authority|Utah State Fair Corporation|Weber State University|Southern Utah University|Salt Lake Community College|Utah Valley University|Utah Tech University|Snow College|Technical Colleges|Total Nonmajor Component Units
+2016|Expenses|NA|Expenses|11196|33378|4067|1521|4125|228589|149628|211802|307368|99819|50077|100692|1202262
+2016|Program Revenues|Charges for Services:|Tuition and Fees|NA|NA|NA|NA|NA|113064|85567|79608|167568|42594|14585|13654|516640
+2016|Program Revenues|Charges for Services:|Scholarship Allowances|NA|NA|NA|NA|NA|(30787)|(24334)|(17541)|(41492)|(10157)|(6044)|(2973)|(133328)
+2016|Program Revenues|Charges for Services:|Sales, Services, and Other Revenues|12071|7062|3422|1477|3568|22620|19514|13648|22195|9152|4977|10373|130079
+2016|Program Revenues|NA|Operating Grants and Contributions|14|1738|NA|297|NA|44895|30850|45270|82856|20253|9896|14771|250840
+2016|Program Revenues|NA|Capital Grants and Contributions|NA|19|25296|NA|NA|64243|8027|430|1289|1975|3000|22756|127035
+2016|Program Revenues|NA|Total Program Revenues|12085|8819|28718|1774|3568|214035|119624|121415|232416|63817|26414|58581|891266
+2016|Program Revenues|NA|Net (Expenses) Revenues|889|(24559)|24651|253|(557)|(14554)|(30004)|(90387)|(74952)|(36002)|(23663)|(42111)|(310996)
+2016|General Revenues|NA|State Appropriations|9200|26068|NA|NA|675|77274|35219|97957|102596|31955|24258|63479|468681
+2016|General Revenues|NA|Unrestricted Investment Income|NA|5|6|NA|NA|NA|NA|NA|NA|NA|NA|NA|11
+2016|General Revenues|NA|Gain (Loss) on Sale of Capital Assets|(889)|(439)|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|(1328)
+2016|General Revenues|NA|Miscellaneous|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|165|165
+2016|General Revenues|NA|Permanent Endowments Contributions|NA|NA|NA|NA|NA|2302|845|NA|1315|2650|52|NA|7164
+2016|General Revenues|NA|Total General Revenues and Contributions|8311|25634|6|0|675|79576|36064|97957|103911|34605|24310|63644|474693
+2016|Net Position|NA|Change in Net Position|9200|1075|24657|253|118|65022|6060|7570|28959|(1397)|647|21533|163697
+2016|Net Position|NA|Net Position – Beginning|24917|9473|(230)|1724|510|452865|206699|327318|470176|160117|96116|144001|1893686
+2016|Net Position|NA|Adjustment to Beginning Net Position|NA|NA|NA|NA|(315)|NA|NA|NA|NA|NA|NA|NA|(315)
+2016|Net Position|NA|Net Position – Beginning as Adjusted|24917|9473|(230)|1724|195|452865|206699|327318|470176|160117|96116|144001|1893371
+2016|Net Position|NA|Net Position – Ending|34117|10548|24427|1977|313|517887|212759|334888|499135|158720|96763|165534|2057068

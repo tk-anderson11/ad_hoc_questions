@@ -1,0 +1,18 @@
+fiscal_year|category|sub_category|Line Item|Comprehensive Health Insurance Pool|Utah Schools for the Deaf and the Blind|Heber Valley Historic Railroad Authority|Utah State Fair Corporation|Weber State University|Southern Utah University|Salt Lake Community College|Utah Valley University|Utah Tech University|College of Eastern University|Snow College|Technical Colleges|Total Nonmajor Component Units
+2005|Expenses|NA|Expenses|24075|23589|1729|3745|143194|75118|133811|156353|40934|25717|34977|62346|725588
+2005|Program Revenues|Charges for Services:|Tuition and Fees|NA|NA|NA|NA|59512|20319|49551|65300|14349|4153|6127|6102|225413
+2005|Program Revenues|Charges for Services:|Scholarship Allowances|NA|NA|NA|NA|-10468|-6068|-8399|-7072|-2502|-2140|-2403|-335|-39387
+2005|Program Revenues|Charges for Services:|Sales, Services, and Other Revenues|14684|3473|1777|2799|12385|15642|14437|22175|4701|2871|2790|5948|103682
+2005|Program Revenues|NA|Operating Grants and Contributions|53|1165|NA|32|30596|16384|26443|32164|10206|9909|6595|12333|145880
+2005|Program Revenues|NA|Capital Grants and Contributions|NA|NA|NA|NA|6108|5163|23129|793|13480|NA|178|4367|53218
+2005|Program Revenues|NA|Total Program Revenues|14737|4638|1777|2831|98133|51440|105161|113360|40234|14793|13287|28415|488806
+2005|Expenses|NA|Net (Expenses) Revenues|-9338|-18951|48|-914|-45061|-23678|-28650|-42993|-700|-10924|-21690|-33931|-236782
+2005|General Revenues|NA|State Appropriations|16204|19167|NA|793|57332|27846|56318|43741|17148|12468|17438|37768|306223
+2005|General Revenues|NA|Unrestricted Investment Income|257|8|NA|NA|NA|NA|NA|NA|NA|NA|504|292|1061
+2005|General Revenues|NA|Permanent Endowments Contributions|NA|NA|NA|NA|3599|349|NA|NA|404|103|419|NA|4874
+2005|General Revenues|NA|Total General Revenues|16461|19175|0|793|60931|28195|56318|43741|17552|12571|18361|38060|312158
+2005|General Revenues|NA|Change in Net Assets|7123|224|48|-121|15870|4517|27668|748|16852|1647|-3329|4129|75376
+2005|Net Position|NA|Net Assets – Beginning|1650|NA|1546|1522|215885|106397|182254|179914|75365|48738|90013|72481|975765
+2005|Net Position|NA|Reclassify Entity as Component Unit|NA|11413|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|11413
+2005|Net Position|NA|Net Assets – Beginning as Adjusted|1650|11413|1546|1522|215885|106397|182254|179914|75365|48738|90013|72481|987178
+2005|Net Position|NA|Net Assets – Ending|8773|11637|1594|1401|231755|110914|209922|180662|92217|50385|86684|76610|1062554

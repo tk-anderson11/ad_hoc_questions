@@ -1,0 +1,21 @@
+fiscal_year|category|sub_category|Line Item|Utah Communications Authority|Utah Schools for the Deaf and the Blind|Military Installation Development Authority|Heber Valley Historic Railroad Authority|State Fair Park Authority|Utah Lake Authority|Point of the Mountain Development Authority|Utah Inland Port Authority|Utah Board of Higher Education|Weber State University|Southern Utah University|Salt Lake Community College|Utah Valley University|Utah Tech University|Snow College|Technical Colleges|Total Nonmajor Component Units
+2023|Expenses|NA|Expenses|20406|53289|189769|3242|6186|324|2220|30747|95698|298593|231755|254494|453709|160784|64673|167710|2033599
+2023|Program Revenues|Charges for Services:|Tuition and Fees|NA|NA|NA|NA|NA|NA|NA|NA|NA|131036|130660|75728|207646|83206|19332|19613|667221
+2023|Program Revenues|Charges for Services:|Scholarship Allowances|NA|NA|NA|NA|NA|NA|NA|NA|NA|(41260)|(44533)|(25042)|(51259)|(33052)|(11687)|(5912)|(212745)
+2023|Program Revenues|Charges for Services:|Sales, Services, and Other Revenues|1306|11563|1993|3797|7468|NA|NA|NA|NA|26594|28792|18161|34252|19465|221|(6752)|146860
+2023|Program Revenues|NA|Operating Grants and Contributions|754|1638|3047|NA|NA|1528|628|6558|31387|104127|50791|67017|140839|32183|1430|38105|480032
+2023|Program Revenues|NA|Capital Grants and Contributions.|NA|NA|2205|NA|3100|NA|NA|6500|NA|60506|5793|11633|5010|17378|20389|6416|138930
+2023|Program Revenues|NA|Total Program Revenues|2060|13201|7245|3797|10568|1528|628|13058|31387|281003|171503|147497|336488|119180|29685|51470|1220298
+2023|Program Revenues|NA|Net (Expenses) Revenues.|(18346)|(40088)|(182524)|555|4382|1204|(1592)|(17689)|(64311)|(17590)|(60252)|(106997)|(117221)|(41604)|(34988)|(116240)|(813301)
+2023|General Revenues|NA|State Appropriations|37000|40594|NA|NA|NA|NA|1750|3198|81767|121390|67642|132288|171955|62814|42994|128717|892109
+2023|General Revenues|NA|Gain (Loss) on Sale of Capital Assets|(155)|NA|NA|NA|132|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|(59)|(82)
+2023|General Revenues|NA|Gain (Loss) on Lease Remeasurement|NA|NA|NA|NA|NA|NA|NA|1287|NA|NA|NA|NA|NA|NA|NA|NA|1287
+2023|General Revenues|NA|Miscellaneous|NA|NA|2476|1554|1382|NA|NA|17306|27138|64|NA|NA|1102|NA|295|NA|51317
+2023|General Revenues|NA|Permanent Endowments Contributions.|NA|NA|NA|NA|NA|NA|NA|NA|NA|8915|1015|990|70|6112|20|NA|17122
+2023|General Revenues|NA|Special Item (See Note 2)|NA|NA|(18000)|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|(18000)
+2023|General Revenues|NA|Total General Revenues, Contributions and Other|36845|40594|(15524)|1554|1514|0|1750|21791|108905|130369|68657|133278|171955|63986|49106|128973|943753
+2023|Net Position|NA|Change in Net Position|18499|506|(198048)|2109|5896|1204|158|4102|44594|112779|8405|26281|54734|22382|14118|12733|130452
+2023|Net Position|NA|Net Position - Beginning|103151|41488|212953|5511|5930|NA|10592|29768|324958|724921|273047|456155|851411|309782|128894|334617|3813178
+2023|Net Position|NA|Adjustment to Beginning Net Position.|NA|NA|(35506)|NA|NA|NA|(6680)|NA|NA|NA|NA|2179|1407|NA|NA|NA|(38600)
+2023|Net Position|NA|Net Position - Beginning as Adjusted|103151|41488|177447|5511|5930|0|10592|23088|324958|724921|273047|456155|853590|311189|128894|334617|3774578
+2023|Net Position|NA|Net Position - Ending.|121650|41994|(20601)|7620|11826|1204|10750|27190|369552|837700|281452|482436|908324|333571|143012|347350|3905030

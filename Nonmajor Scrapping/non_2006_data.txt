@@ -1,0 +1,16 @@
+fiscal_year|category|sub_category|Line Item|Comprehensive Health Insurance Pool|Utah Schools for the Deaf and the Blind|Heber Valley Historic Railroad Authority|Utah State Fair Corporation|Weber State University|Southern Utah University|Salt Lake Community College|Utah Valley University|Utah Tech University|College of Eastern University|Snow College|Technical Colleges|Total Nonmajor Component Units
+2006|Expenses|NA|Expenses|22783|25776|2474|4128|148514|78447|139683|167092|43270|25315|35171|64552|757205
+2006|Program Revenues|Charges for Services:|Tuition and Fees|NA|NA|NA|NA|61910|24293|52166|65424|14994|4165|7077|6475|236504
+2006|Program Revenues|Charges for Services:|Scholarship Allowances|NA|NA|NA|NA|-11940|-5922|-8021|-5531|-2169|-2211|-2189|-413|-38396
+2006|Program Revenues|Charges for Services:|Sales, Services, and Other Revenues|16784|4086|2476|3171|12530|15602|13941|21585|4780|2811|3025|6626|107417
+2006|Program Revenues|NA|Operating Grants and Contributions|1595|784|NA|43|34023|17295|28575|39728|9461|8598|5952|11861|157915
+2006|Program Revenues|NA|Capital Grants and Contributions|NA|NA|NA|NA|9999|1148|953|3267|2328|204|2260|611|20770
+2006|Program Revenues|NA|Total Program Revenues|18379|4870|2476|3214|106522|52416|87614|124473|29394|13567|16125|25160|484210
+2006|Expenses|NA|Net (Expenses) Revenues|-4404|-20906|2|-914|-41992|-26031|-52069|-42619|-13876|-11748|-19046|-39392|-272995
+2006|General Revenues|NA|State Appropriations|16204|21002|NA|793|60866|28821|59706|49201|18080|12704|18610|40713|326700
+2006|General Revenues|NA|Unrestricted Investment Income|848|13|NA|NA|NA|NA|NA|NA|NA|NA|NA|NA|861
+2006|General Revenues|NA|Permanent Endowments Contributions|NA|NA|NA|NA|1915|1660|NA|763|438|144|224|NA|5144
+2006|General Revenues|NA|Total General Revenues|17052|21015|0|793|62781|30481|59706|49964|18518|12848|18834|40713|332705
+2006|Net Position|NA|Change in Net Assets|12648|109|2|-121|20789|4450|7637|7345|4642|1100|-212|1321|59710
+2006|Net Position|NA|Net Assets - Beginning|8773|11637|1594|1401|231755|110914|209922|180662|92217|50385|86684|76610|1062554
+2006|Net Position|NA|Net Assets - Ending|21421|11746|1596|1280|252544|115364|217559|188007|96859|51485|86472|77931|1122264

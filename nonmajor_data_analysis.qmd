@@ -13,9 +13,9 @@ library(tidyverse)
 
 ### Data: 2024 - 2015
 
-##### This data was scrapped from the Utah ACRFs from 2024 to 2005 using vertex AI to read the PDFs into a csv format. The matching tables can be found in each year's ACRF under 'Nonmajor Component Units' and their revenue and expense tables. I've uploaded each formatted .txt file to github for the ease of future analysis.
+This data was scrapped from the Utah ACRFs from 2024 to 2005 using vertex AI to read the PDFs into a csv format. The matching tables can be found in each year's ACRF under 'Nonmajor Component Units' and their revenue and expense tables. I've uploaded each formatted .txt file to github for the ease of future analysis.
 
-##### For future updates, add in the new year's data as a .text file and update file paths as neccesary. I've created functions to iteratively handle compiling each year into a clean data object. 
+For future updates, add in the next year's data as a .text file and update file paths as necessary. Use AI to help scrap the PDF into a similar format for ease of connecting the data objects; there should be an example prompt saved in prompt management in Vertex AI. I've created functions to iteratively handle compiling each year into a clean data object.
 
 ```{r}
 # 2024
@@ -197,6 +197,7 @@ total_2024 <- nonmajor_data_2011 %>%
   summarize(total = sum(total_nonmajor_component_units, na.rm = TRUE))
 total_2024
 
+# Sum each .txt numeric columns for comparison
 other_numeric_sums <- nonmajor_data_2011 %>%
   select_if(is.numeric) %>%
   select(-total_nonmajor_component_units, -fiscal_year) %>% 

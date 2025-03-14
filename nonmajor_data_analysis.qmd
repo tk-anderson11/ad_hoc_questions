@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## Non-major Component Units -\> ACFR Scrapping
+## Nonmajor Component Units -\> ACFR Scrapping
 
 ```{r}
 library(janitor)
@@ -12,6 +12,10 @@ library(tidyverse)
 ```
 
 ### Data: 2024 - 2015
+
+##### This data was scrapped from the Utah ACRFs from 2024 to 2005 using vertex AI to read the PDFs into a csv format. The matching tables can be found in each year's ACRF under 'Nonmajor Component Units' and their revenue and expense tables. I've uploaded each formatted .txt file to github for the ease of future analysis.
+
+##### For future updates, add in the new year's data as a .text file and update file paths as neccesary. I've created functions to iteratively handle compiling each year into a clean data object. 
 
 ```{r}
 # 2024
@@ -104,8 +108,8 @@ nonmajor_data_2005 <- read.delim("C:/Users/tkanderson/Documents/Nonmajor Scrappi
 ### Clean 2024-2015
 
 ```{r}
-# Need to multiple values by 1000 since tables are expressed in thousands
-# remove extra commas in numbers
+# Multiple numeric values by 1000 since original tables are expressed in thousands
+# Remove extra commas in numbers
 
 # Function to handle commas and parentheses
 convert_to_numeric <- function(x) {
@@ -120,7 +124,7 @@ convert_to_numeric <- function(x) {
 process_nonmajor_data <- function(data_list) {
   for (i in seq_along(data_list)) {
     data_list[[i]] <- data_list[[i]] %>%
-      mutate(across(utah_communications_authority:total_nonmajor_component_units, #skip to col 5 then to end
+      mutate(across(utah_communications_authority:total_nonmajor_component_units, #skip to col 5 then to end, based on .txt files
                      ~ convert_to_numeric(.x) * 1000))
   }
   return(data_list)
@@ -150,7 +154,6 @@ options(scipen = 999)
 ### Clean 2014-2005
 
 ```{r}
-# function to iterate through the list of dataframes
 process_nonmajor_data <- function(data_list) {
   for (i in seq_along(data_list)) {
     data_list[[i]] <- data_list[[i]] %>%
@@ -160,7 +163,6 @@ process_nonmajor_data <- function(data_list) {
   return(data_list)
 }
 
-# Create a list of dataframes
 data_list_clean <- list(nonmajor_data_2014,nonmajor_data_2013,nonmajor_data_2012,nonmajor_data_2011,nonmajor_data_2010,nonmajor_data_2009,nonmajor_data_2008,nonmajor_data_2007,nonmajor_data_2006,nonmajor_data_2005)
 
 # Process the dataframes using the modified function
@@ -190,6 +192,7 @@ sapply(nonmajor_data_2024, class)
 ### Checking 2024
 
 ```{r}
+# Check each .txt columns total against the total column
 total_2024 <- nonmajor_data_2011 %>%
   summarize(total = sum(total_nonmajor_component_units, na.rm = TRUE))
 total_2024
